@@ -1,0 +1,39 @@
+macos/Sources/Helpers/EditableTextField.swift
+  046ddb6a25574afd 7-14,16-28,33-35
+macos/Tests/EditableTextFieldTests.swift
+  3ed993cf14da087a 1-5,9-10,19-20,48-49
+  046ddb6a25574afd 6-8,11-18,21-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "fc87cab7dccad999361b7563bc0fc24b21bd42df",
+  "prompts": {
+    "046ddb6a25574afd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c9a8dc31-3355-42fb-a287-8d7b17e492a2",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": null,
+      "messages": [],
+      "total_additions": 153,
+      "total_deletions": 156,
+      "accepted_lines": 77,
+      "overriden_lines": 0
+    },
+    "3ed993cf14da087a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8c5ae5b-44af-452f-8e43-018c547b5aad",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jimmy Stridh <jimmystridh@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 83,
+      "total_deletions": 1,
+      "accepted_lines": 11,
+      "overriden_lines": 0
+    }
+  }
+}
