@@ -1,0 +1,23 @@
+"macos/Sources/Ghostty/Surface View/SurfaceView_AppKit.swift"
+  a454c60b8641b27a 552
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "bb0c9f06ba7c482bbb1a56347f920a7bd7d39a41",
+  "prompts": {
+    "a454c60b8641b27a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "055b794d-cde4-49ba-90cc-f749a2051abe",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jimmy Stridh <jimmystridh@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0
+    }
+  }
+}
