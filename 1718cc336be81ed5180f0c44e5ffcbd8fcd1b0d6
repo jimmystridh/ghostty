@@ -1,0 +1,44 @@
+macos/Sources/Helpers/EditableTextField.swift
+  046ddb6a25574afd 3-5,9,14
+  3ed993cf14da087a 1-2,6-8,10-13,15-22
+macos/Sources/Features/Terminal/BaseTerminalController.swift
+  3ed993cf14da087a 359
+macos/Tests/EditableTextFieldTests.swift
+  3ed993cf14da087a 1-24,42-58,78-94
+  046ddb6a25574afd 25-41,59-77
+macos/Ghostty.xcodeproj/project.pbxproj
+  3ed993cf14da087a 164
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.42",
+  "base_commit_sha": "1718cc336be81ed5180f0c44e5ffcbd8fcd1b0d6",
+  "prompts": {
+    "046ddb6a25574afd": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c9a8dc31-3355-42fb-a287-8d7b17e492a2",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jimmy Stridh <jimmystridh@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 43,
+      "total_deletions": 8,
+      "accepted_lines": 41,
+      "overriden_lines": 0
+    },
+    "3ed993cf14da087a": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "f8c5ae5b-44af-452f-8e43-018c547b5aad",
+        "model": "claude-opus-4-6"
+      },
+      "human_author": "Jimmy Stridh <jimmystridh@users.noreply.github.com>",
+      "messages": [],
+      "total_additions": 83,
+      "total_deletions": 1,
+      "accepted_lines": 77,
+      "overriden_lines": 0
+    }
+  }
+}
