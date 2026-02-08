@@ -161,6 +161,7 @@
 				Helpers/AppInfo.swift,
 				Helpers/CodableBridge.swift,
 				Helpers/Cursor.swift,
+				Helpers/EditableTextField.swift,
 				Helpers/ExpiringUndoManager.swift,
 				"Helpers/Extensions/Double+Extension.swift",
 				"Helpers/Extensions/EventModifiers+Extension.swift",

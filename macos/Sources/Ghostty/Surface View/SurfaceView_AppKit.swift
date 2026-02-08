@@ -549,7 +549,7 @@ extension Ghostty {
             alert.alertStyle = .informational
 
             // Add a text field to the alert
-            let textField = NSTextField(frame: NSRect(x: 0, y: 0, width: 250, height: 24))
+            let textField = EditableTextField(frame: NSRect(x: 0, y: 0, width: 250, height: 24))
             textField.stringValue = title
             alert.accessoryView = textField
 
